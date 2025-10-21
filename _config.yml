@@ -21,14 +21,12 @@
 title: Mobile Bay DSA
 email: steering@mobilebaydsa.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for the Mobile Bay chapter of Democratic Socialists of America.
+  Mobile, Alabama contingent of the largest socialist organization in the country, organizing for deep change!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.mobilebaydsa.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
   username: MobileDSA
   card: summary
-
-
 
 # Build settings
 theme: minima

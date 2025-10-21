@@ -319,6 +319,9 @@
   .float-left {
     float: left;
   }
+  .float-right {
+    float: right;
+  }
   .container {
     width: 100%;
     @media (width >= 40rem) {
@@ -489,8 +492,17 @@
   .w-\[40\%\] {
     width: 40%;
   }
+  .w-\[48\%\] {
+    width: 48%;
+  }
   .w-\[50vw\] {
     width: 50vw;
+  }
+  .w-\[52\%\] {
+    width: 52%;
+  }
+  .w-\[60\%\] {
+    width: 60%;
   }
   .w-\[66\%\] {
     width: 66%;
