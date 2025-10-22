@@ -2,7 +2,7 @@
 layout: event
 title:  "Member Meeting"
 time: 10/21/2025 6:30 PM
-place: "Virtual"
+place: "Zoom"
 categories: events
 eventtype: dsa past
 description: "There is a virtual chapter member meeting on October 21 at 6:30 PM."
