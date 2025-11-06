@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Brake Light Clinic"
-time: 11/8/2025 10:00 AM - 2:00 PM
+time: 11/22/2025 10:00 AM - 2:00 PM
 place: "Prichard"
 categories: events
 eventtype: dsa future

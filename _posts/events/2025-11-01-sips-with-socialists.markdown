@@ -4,7 +4,7 @@ title:  "Sips with Socialists"
 time: 11/01/2025 6:00 PM - 8:00 PM
 place: "Lucky's"
 categories: events
-eventtype: dsa future
+eventtype: dsa past
 description: "We're having our monthly 'Sips with Socialists' social on November 1 from 6:00 to 8:00 PM CDT, at Lucky - Irish Pub & Grill in Saraland. The meeting is public for all interested, including non-DSA members."
 ---
 
