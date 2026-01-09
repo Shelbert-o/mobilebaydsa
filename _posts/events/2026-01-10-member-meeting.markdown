@@ -15,6 +15,6 @@ There is a general member meeting on January 10, 4:30 - 6 PM, at the Ben May Lib
     
     {% leaflet_marker { "latitude" : 30.686660,
                        "longitude" : -88.050584,
-                       "popupContent" : "Heritage Park"} %}
+                       "popupContent" : "Ben May Library"} %}
 
 {% endleaflet_map %}
