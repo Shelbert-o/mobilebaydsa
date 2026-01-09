@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Member Meeting"
-time: 11/18/2025 4:30 - 6 PM
+time: 1/10/2026 4:30 - 6 PM
 place: "Ben May Library"
 categories: events
 eventtype: dsa future
