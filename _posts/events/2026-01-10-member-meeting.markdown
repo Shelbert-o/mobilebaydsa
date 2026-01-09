@@ -1,8 +1,8 @@
 ---
 layout: event
 title:  "Member Meeting"
-time: 11/18/2025 6:30 PM
-place: "Zoom"
+time: 11/18/2025 4:30 - 6 PM
+place: "Ben May Library"
 categories: events
 eventtype: dsa future
 description: "There is a general member meeting on January 10, 4:30 - 6 PM, at the Ben May Library Auditorium."

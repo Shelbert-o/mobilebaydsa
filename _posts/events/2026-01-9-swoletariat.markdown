@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Swoletariat"
-time: 1/9/2026 8:00 PM -
+time: 1/9/2026 8:00 PM
 place: "Eastern Shore Lanes"
 categories: events
 eventtype: dsa future
