@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "No War on Venezuela!"
+title:  "Indivisible: No War on Venezuela!"
 time: 1/11/2026 2:00 PM - 4:00 PM
 place: "Foley"
 categories: events
