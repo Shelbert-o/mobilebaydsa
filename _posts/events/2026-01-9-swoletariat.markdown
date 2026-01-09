@@ -1,14 +1,14 @@
 ---
 layout: event
 title:  "Swoletariat"
-time: 1/10/2026 8:00 PM -
+time: 1/9/2026 8:00 PM -
 place: "Eastern Shore Lanes"
 categories: events
 eventtype: dsa future
-description: "Mobile Bay DSA members are holding a 'Swoletariat' fitness event at Eastern Shore Lanes starting at 8 PM January 10. This is part of a series of events recurring every other Wednesday. The meeting is public for all interested, including non-DSA members."
+description: "Mobile Bay DSA members are holding a 'Swoletariat' fitness event at Eastern Shore Lanes starting at 8 PM January 9. This is part of a series of events recurring every other Wednesday. The meeting is public for all interested, including non-DSA members."
 ---
 
-Mobile Bay DSA members are holding a "Swoletariat" fitness event at Eastern Shore Lanes (10460 Eastern Shore Blvd, Spanish Fort) starting at 8 PM January 10. This is part of a series of events recurring every other Wednesday. The meeting is public for all interested, including non-DSA members.
+Mobile Bay DSA members are holding a "Swoletariat" fitness event at Eastern Shore Lanes (10460 Eastern Shore Blvd, Spanish Fort) starting at 8 PM January 9. This is part of a series of events recurring every other Wednesday. The meeting is public for all interested, including non-DSA members.
 
 Source: [Flyer on our Facebook group](https://www.facebook.com/groups/1224221002835521/)
 
