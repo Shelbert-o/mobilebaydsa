@@ -4,7 +4,7 @@ title:  "Interest Meeting"
 time: 11/8/2025 10:00 AM - 12:00 PM
 place: "Chickasabogue Park"
 categories: events
-eventtype: dsa future
+eventtype: dsa past
 description: "There is an interest meeting on November 8 from 10:00 AM to 12:00 PM CDT, at Chickasabogue Park, Eight Mile. The meeting is public for all interested, including non-DSA members."
 ---
 

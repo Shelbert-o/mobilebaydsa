@@ -1,0 +1,24 @@
+---
+layout: event
+title:  "Brake Light Clinic"
+time: 1/11/2026 2:00 PM - 4:00 PM
+place: "Foley"
+categories: events
+eventtype: dsa future
+description: "Indivisible Baldwin County announced a protest in response to the invasion of Venezuela, to be held on January 11 from 2 to 4 PM on the sidewalks around Heritage Park, HWY 59 & 98 in Foley."
+---
+
+Indivisible Baldwin County announced a protest in response to the invasion of Venezuela, to be held on January 11 from 2 to 4 PM on the sidewalks around Heritage Park, HWY 59 & 98 in Foley. 
+
+Source: [Reddit post here](https://www.reddit.com/r/50501Alabama/comments/1q5x5y6/sunday_january_11th_no_war_on_venezuela_protest/); [Threads post here.](https://www.threads.com/@seachele420/post/DTOF45lgXRl)
+
+![<img src="https://preview.redd.it/sunday-january-11th-no-war-on-venezuela-protest-foley-al-v0-bkpltled1tbg1.jpeg?width=1080&crop=smart&auto=webp&s=8b4bdf669a37dbbcd6d80648c720cd487bb02afd">](https://preview.redd.it/sunday-january-11th-no-war-on-venezuela-protest-foley-al-v0-bkpltled1tbg1.jpeg?width=1080&crop=smart&auto=webp&s=8b4bdf669a37dbbcd6d80648c720cd487bb02afd)
+
+{% leaflet_map {"center" : [30.406548, -87.683671],
+                 "zoom" : 10} %}
+    
+    {% leaflet_marker { "latitude" : 30.406548,
+                       "longitude" : -87.683671,
+                       "popupContent" : "Heritage Park"} %}
+
+{% endleaflet_map %}
