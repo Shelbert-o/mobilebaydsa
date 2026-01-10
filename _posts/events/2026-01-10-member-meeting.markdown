@@ -8,7 +8,7 @@ eventtype: dsa future
 description: "There is a general member meeting on January 10, 4:30 - 6 PM, at the Ben May Library Auditorium."
 ---
 
-There is a general member meeting on January 10, 4:30 - 6 PM, at the Ben May Library Auditorium.
+There is a general member meeting on January 10, 4:30 - 6 PM, at the Ben May Library Auditorium. It will be hybrid through Zoom; attendance only for members in good standing.
 
 {% leaflet_map {"center" : [30.686660, -88.050584],
                  "zoom" : 10} %}
