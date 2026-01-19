@@ -1,0 +1,20 @@
+---
+layout: event
+title:  "Stop ICE Terror!"
+time: 1/20/2026 5:00 PM
+place: "Cathedral Square"
+categories: events
+eventtype: dsa future
+description: "DSA, PSL, and 50501 are coming together to take a stand against ICE terror. Come out and join us!"
+---
+
+DSA, PSL, and 50501 are coming together to take a stand against ICE terror. Come out and join us! Mobile's part of the 'Stop ICE Terror' shutdown will be at Cathedral Square, Mobile, on January 20 at 5:00 PM.
+
+{% leaflet_map {"center" : [30.690432, -88.045077],
+                 "zoom" : 10} %}
+    
+    {% leaflet_marker { "latitude" : 30.690432,
+                       "longitude" : -88.045077,
+                       "popupContent" : "Cathedral Square"} %}
+
+{% endleaflet_map %}

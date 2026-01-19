@@ -4,7 +4,7 @@ title:  "Swoletariat"
 time: 1/9/2026 8:00 PM
 place: "Eastern Shore Lanes"
 categories: events
-eventtype: dsa future
+eventtype: dsa past
 description: "Mobile Bay DSA members are holding a 'Swoletariat' fitness event at Eastern Shore Lanes starting at 8 PM January 9. This is part of a series of events recurring every other Wednesday. The meeting is public for all interested, including non-DSA members."
 ---
 

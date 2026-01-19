@@ -4,7 +4,7 @@ title:  "Member Meeting"
 time: 1/10/2026 4:30 - 6 PM
 place: "Ben May Library"
 categories: events
-eventtype: dsa future
+eventtype: dsa past
 description: "There is a general member meeting on January 10, 4:30 - 6 PM, at the Ben May Library Auditorium."
 ---
 

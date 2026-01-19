@@ -4,7 +4,7 @@ title:  "Indivisible: No War on Venezuela!"
 time: 1/11/2026 2:00 PM - 4:00 PM
 place: "Foley"
 categories: events
-eventtype: dsa future
+eventtype: dsa past
 description: "Indivisible Baldwin County announced a protest in response to the invasion of Venezuela, to be held on January 11 from 2 to 4 PM on the sidewalks around Heritage Park, HWY 59 & 98 in Foley."
 ---
 
