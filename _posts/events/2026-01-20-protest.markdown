@@ -4,7 +4,7 @@ title:  "Stop ICE Terror!"
 time: 1/20/2026 5:00 PM
 place: "Cathedral Square"
 categories: events
-eventtype: dsa future
+eventtype: dsa past
 description: "DSA, PSL, and 50501 are coming together to take a stand against ICE terror. Come out and join us!"
 ---
 
